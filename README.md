@@ -1,2 +1,1 @@
-# MyFirstGitRepsitory
-A just to get started Git/GitHub repository 
+Yeah git... I'll be there soon.
